@@ -32,3 +32,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enes-zsr&show_icons=true&locale=en" alt="enes-zsr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enes-zsr&" alt="enes-zsr" /></p>
+
+
+
+![snake gif](https://github.com/Enes-zsr/Enes-zsr/blob/output/github-contribution-grid-snake.gif)
+
+
